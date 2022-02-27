@@ -22,6 +22,11 @@
 <img src="./img/2.png">
 
 ***
+Поиск инструктора 
 
 <img src="./img/3.png">
+
+***
+Отзывы
+
 <img src="./img/4.png">
