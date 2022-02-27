@@ -10,7 +10,7 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width=3%>]('')
 [<img src="https://cdn.worldvectorlogo.com/logos/prisma-3.svg" width=3%>]('')
 
-+ **Фронтенд:** TypeScript, React, Redux(thunk), Axios, Bootstrap
++ **Фронтенд:** React, Redux(thunk), Axios, Bootstrap
 + **Бэкенд:** TypeScript, Node.js, Express, Sessions, PostgreSQL, Prizma
 
 ***
